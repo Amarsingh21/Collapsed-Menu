@@ -1,0 +1,126 @@
+[
+
+    {
+        "id":1,
+        "name":"Akshit",
+        "city":"Moradabad"
+    },
+    
+    {
+        "id":2,
+        "name":"Nikita",
+        "city":"Lucknow"
+    },
+    
+    {
+        "id":3,
+        "name":"Deeksha",
+        "city":"Noida"
+    },
+    
+    {
+        "id":4,
+        "name":"Ritesh",
+        "city":"Delhi"
+    },
+    
+    {
+        "id":5,
+        "name":"Somya",
+        "city":"Gurugram"
+    },
+    
+    {
+        "id":6,
+        "name":"Eshika",
+        "city":"Mumbai"
+    },
+    {
+        "id":7,
+        "name":"Kalpana",
+        "city":"Rampur"
+    },
+    
+    {
+        "id":8,
+        "name":"Parul",
+        "city":"Chandigarh"
+    },
+    
+    {
+        "id":9,
+        "name":"Himani",
+        "city":"Dehradun"
+    },
+    
+    {
+        "id":10,
+        "name":"Himani",
+        "city":"Dehradun"
+    },
+    
+    {
+        "id":11,
+        "name":"Himani",
+        "city":"Dehradun"
+    },
+    
+    {
+        "id":12,
+        "name":"Himani",
+        "city":"Dehradun"
+    },
+    
+    {
+        "id":13,
+        "name":"Maya",
+        "city":"Lucknow"
+    },
+    
+    
+    {
+        "id":14,
+        "name":"Himani",
+        "city":"Dehradun"
+    },
+    
+    
+    {
+        "id":15,
+        "name":"Harish",
+        "city":"Delhi"
+    },
+    
+    {
+        "id":16,
+        "name":"Himani",
+        "city":"Dehradun"
+    },
+    
+    
+    {
+        "id":17,
+        "name":"Himani",
+        "city":"Bangalore"
+    },
+    
+    
+    {
+        "id":18,
+        "name":"Maya",
+        "city":"Bangalore"
+    },
+    
+    
+    {
+        "id":19,
+        "name":"Deeksha",
+        "city":"Dehradun"
+    },
+    
+    {
+        "id":20,
+        "name":"Himani",
+        "city":"Bangalore"
+    }
+]

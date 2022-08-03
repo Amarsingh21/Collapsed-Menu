@@ -1,23 +1,28 @@
-import logo from './logo.svg';
 import './App.css';
+import Table from './Comonent/Table';
+import Pagination from './Comonent/pagination/Pagination';
+import Cmenu from './Comonent/Cmenu';
+import Header from './Comonent/Header';
+// import Pgtable from './Comonent/Pgtable';
+
+import { BrowserRouter as Routes, Route} from 'react-router-dom';
+import Page404 from './Page404';
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <Header />
+      {/* <Table />
+      <Cmenu /> */}
+      {/* < Pagination /> */}
+      {/* <Pgtable /> */}
+       
+      <Routes>
+          <Route exact path="/table" component={Table} />
+          <Route exact path="/cmenu" component={Cmenu} />
+          <Route exact path="/pgdata" component={Pagination} />
+          <Route exact path="/.../*" component={Page404} />
+      </Routes>
     </div>
   );
 }
